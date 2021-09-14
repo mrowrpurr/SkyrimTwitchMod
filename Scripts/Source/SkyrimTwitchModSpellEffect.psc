@@ -1,1 +1,0 @@
-Scriptname SkyrimTwitchModSpellEffect extends ActiveMagicEffect  

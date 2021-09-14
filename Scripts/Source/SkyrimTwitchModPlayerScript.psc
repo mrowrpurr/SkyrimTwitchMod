@@ -1,1 +1,0 @@
-Scriptname SkyrimTwitchModPlayerScript extends ReferenceAlias  

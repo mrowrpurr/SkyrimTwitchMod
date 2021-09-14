@@ -1,1 +1,0 @@
-Scriptname SkyrimTwitchModPrivateAPI extends Quest  
