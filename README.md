@@ -1,4 +1,4 @@
-![Skyrim Twitch Bot](Images/SkyrimTwitchBot.png)
+![Skyrim Twitch Bot](Images/SkyrimTwitchBot_blackText.png)
 
 > This repository has the Skyrim mod which integrates with 🤖 [Skyrim Twitch Bot](https://github.com/mrowrpurr/SkyrimTwitchBot) 🐉
 
